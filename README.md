@@ -45,5 +45,4 @@
 [Linkedin]: https://www.linkedin.com/in/utkarsh-dixit-b34639103/
 [Leetcode]: https://leetcode.com/MadaoJEET/
 
-[Utkarsh | PDF Resume](https://raw.githubusercontent.com/ek-gadha/ek-gadha/master/assets/current-resume.pdf)
-
+[Utkarsh | PDF Resume](https://raw.githubusercontent.com/ek-gadha/ek-gadha/master/assets/utkarsh Resume 2025.pdf)
