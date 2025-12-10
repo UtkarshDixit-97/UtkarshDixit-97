@@ -32,13 +32,9 @@
 <hr>
 
 
-| <a href="https://github.com/UtkarshDixit-97/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=UtkarshDixit-97&count_private=true&theme=gruvbox&show_icons=true&include_all_commits=true&hide_border=true" alt="Utkarsh Github Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://leetcode.card.workers.dev/?username=MadaoJEET&theme=nord&font=milonga" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://leetcode.card.workers.dev/?username=MadaoJEET&theme=nord&font=milonga" /></a> |
 
 <hr>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshDixit-97&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 
