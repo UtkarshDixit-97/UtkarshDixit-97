@@ -1,5 +1,5 @@
 ### Hi there , Utkarsh here.
-#### Self-taught Developer and Learner
+#### Self-taught Developer and Hobbyist
  
 ### Connect - - -   [<img align="center" src="https://github.com/UtkarshDixit-97/UtkarshDixit-97/blob/master/assets/6RA1Ax4__400x400.jpg?raw=true"  style="border-radius: 50%;width: 34px ;border: 2px solid black;height: 34px; align-self:bottom" />][Linkedin]  |  [<img align="top" src="https://github.com/UtkarshDixit-97/UtkarshDixit-97/blob/master/assets/leetcode_button_icon_151892.png"  style="border-radius: 50%;width: 104px ;border: 2px solid black;height: 25px; align-self:bottom" />][Leetcode]
 
@@ -18,12 +18,13 @@
 <img align="left" alt="Bootstrap" width="40px" height=40px src="https://github.com/UtkarshDixit-97/UtkarshDixit-97/blob/master/assets/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png" />
 <img align="left" alt="git" width="40px" height=40px src="https://github.com/UtkarshDixit-97/UtkarshDixit-97/blob/master/assets/git-logo-CD8D6F1C09-seeklogo.com.png" />
 <img align="left" alt="SQL"  width="50px" height=50px src="https://raw.githubusercontent.com/UtkarshDixit-97/UtkarshDixit-97/master/assets/image-260nw-684826648.webp" />
+
 <br/>
 <br/>
 <br/>
 <br/>
 <img align="left" alt="POstGRES"  width="50px" height=50px src="https://github.com/UtkarshDixit-97/UtkarshDixit-97/blob/master/assets/pgsql-logo-898CA61FF8-seeklogo.com.gif" />
-<img align="left" alt="RubyMine"  width="50px" height=50px style="margin-top:-200px" src="https://github.com/UtkarshDixit-97/UtkarshDixit-97/blob/master/assets/rubymine-logo-ACFC28EACC-seeklogo.com.png" />
+<img align="left" alt="SQL"  width="50px" height=50px src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
 </br>
 </br>
 </br>
